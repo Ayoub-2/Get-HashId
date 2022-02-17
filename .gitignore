@@ -1,0 +1,6 @@
+.vscode/*
+test.ps1
+exemple.py
+.garbage
+ToDo.md
+Get-HashId.ps1
